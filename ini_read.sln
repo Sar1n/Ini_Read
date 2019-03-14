@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ini_read", "ini_read\ini_read.csproj", "{B8AA682E-BF11-48FE-B251-EFCE258D2E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IniTest", "IniTest\IniTest.csproj", "{290E5E77-189F-4343-9AC2-CB2199826D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8AA682E-BF11-48FE-B251-EFCE258D2E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AA682E-BF11-48FE-B251-EFCE258D2E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AA682E-BF11-48FE-B251-EFCE258D2E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AA682E-BF11-48FE-B251-EFCE258D2E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290E5E77-189F-4343-9AC2-CB2199826D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290E5E77-189F-4343-9AC2-CB2199826D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290E5E77-189F-4343-9AC2-CB2199826D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290E5E77-189F-4343-9AC2-CB2199826D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8528DFF-A033-45E5-8A7C-4ED774DC2908}
+	EndGlobalSection
+EndGlobal
